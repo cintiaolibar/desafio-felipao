@@ -1,4 +1,3 @@
 
 let nome = "felipe";
-console.log(nome);
-teste
+console.log(nome); 
